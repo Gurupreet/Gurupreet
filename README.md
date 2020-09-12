@@ -23,7 +23,7 @@
 - 🔭 I’m currently working at [Delivery Hero](https://www.deliveryhero.com/).
 - 🌱 I’m currently learning more about Jetpack Compose, Blockchain, Android development(Forever).
 - 👯 I’m looking to collaborate on Podcasts, Youtube etc.
-- 🤔 I’m looking for help with Improving my ComposeCookBoox documentation and features.
+- 🤔 I’m looking for help with Improving my [ComposeCookBook](https://github.com/Gurupreet/ComposeCookBook) documentation and features.
 - 💬 Ask me about Android in general or Jetpack Compsoe.
 - 📫 How to reach me: [Twitter - @_gurupreet](https://twitter.com/_gurupreet)
 - 😄 Pronouns: He/His
