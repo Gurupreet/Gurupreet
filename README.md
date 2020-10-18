@@ -27,7 +27,7 @@
 - 💬 Ask me about Android in general or Jetpack Compsoe.
 - 📫 How to reach me: [Twitter - @_gurupreet](https://twitter.com/_gurupreet)
 - 😄 Pronouns: He/His
-- ⚡ Fun fact: If I am not conding then I am playing basktball or PUBG
+- ⚡ Fun fact: If I am not coding then I am playing basktball or PUBG
 
 **Languages and Tools:**  
 
@@ -52,6 +52,6 @@
 
 <div align="center">
 
-### Share some with Starring repositories and follow me on twitter 
+### Share some love with Starring repositories and following me on twitter 
 
 </div>
