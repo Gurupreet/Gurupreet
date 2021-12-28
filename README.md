@@ -20,7 +20,7 @@
 
 
 
-- 🔭 I’m currently working at [Delivery Hero](https://www.deliveryhero.com/).
+- 🔭 I’m currently working at <b>Google</b>
 - 🌱 I’m currently learning more about Jetpack Compose, Blockchain, Android development(Forever).
 - 👯 I’m looking to collaborate on Podcasts, Youtube etc.
 - 🤔 I’m looking for help with Improving my [ComposeCookBook](https://github.com/Gurupreet/ComposeCookBook) documentation and features.
